@@ -1,3 +1,3 @@
-# TrialRepository
-This is a trial to understand Github.
-Hoping to understand how to use git and github.
+# Portfolio Website
+Made up of HTML, CSS, JS, Java, Servlet, MySql 
+
